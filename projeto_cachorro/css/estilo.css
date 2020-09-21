@@ -1,0 +1,29 @@
+body{
+	background-image: url(../img/patinhas.jpg);
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+#cachorro {
+	margin-top: 400px;
+	margin-left: 100px;
+}
+
+#casa {
+	width: 8em;
+	position: absolute;
+	top: 200px;
+	left: 1000px;
+	border-radius: 65px;
+}
+
+#campo {
+	width: 50px;
+	display: block;
+	margin-top: 2em;
+	background-color: rgb(153, 212, 229);
+}
